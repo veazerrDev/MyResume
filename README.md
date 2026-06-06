@@ -20,6 +20,7 @@
  - [To Do List App](https://github.com/veazerrDev/To-Do-List-App)
  - [Weather App](https://github.com/veazerrDev/Weather-App)
  - [QrGenerator App](https://github.com/veazerrDev/QrGenerator)
+ - [Poxedex-Viewer](https://github.com/veazerrDev/Poxedex-Viewer)
 
 ## 📫 How to reach me:
 
