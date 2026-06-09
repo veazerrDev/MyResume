@@ -15,6 +15,7 @@
  - [WebStudio](https://github.com/veazerrDev/WebStudio)
  - [Flower Studio](https://github.com/Horbunov-Yurii/team2project)
  - [Event Booster](https://github.com/veazerrDev/event-booster2)
+ - [ScriptForge](https://github.com/veazerrDev/ScriptForge)
  - [Password Generator](https://github.com/veazerrDev/Password-Generator)
  - [Weather App](https://github.com/veazerrDev/Weather-App)
  - [QrGenerator App](https://github.com/veazerrDev/QrGenerator)
