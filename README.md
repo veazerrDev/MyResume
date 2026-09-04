@@ -5,7 +5,7 @@
 
 - 🖼️ HTML / CSS / SCSS / JS / TypeScript
 - ⚙️ Git, GitHub & Node.js
-- 📘 Currently learning React
+- 📘 Currently learning React & Astro
 
 🔭 Currently working on:
   - Portfolio projects
@@ -38,3 +38,4 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-68A063?logo=node.js&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-purple?logo=astro&logoColor=white)
